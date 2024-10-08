@@ -3,8 +3,7 @@
 - My name is Felipe  Dini , from SP, Brazil 🇧🇷
 - 
 ## About Me
-- Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
-- Tech Lead at [@Itau](https://github.com/itau)
+- Content creator at [@buildrun.tech]([https://github.com/buildrun-tech](https://visioninside.netlify.app/))
 
 ## My Techs
 <div align="left">
@@ -12,7 +11,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
-## My Stats
+
 
 ###
 
