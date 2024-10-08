@@ -4,6 +4,8 @@
   
 ## My Techs
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="TeX logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
