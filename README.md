@@ -38,6 +38,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/felipedini/felipedini/output/snake.svg" alt="Snake animation" />
-
-###
