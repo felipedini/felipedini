@@ -8,7 +8,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
   <img width="12" />
-
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
+  <img width="12" />
 
 ###
 
