@@ -3,7 +3,7 @@
 ## 👋 Hi there, welcome to my Github profile
 
 - My name is Felipe  Dini , from SP, Brazil 🇧🇷
-
+- Python Enthusiast 🖥️
   
 ## My Techs
 <div align="left">
