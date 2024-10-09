@@ -5,7 +5,11 @@
 
 - My name is Felipe  Dini , from SP, Brazil 🇧🇷
 - Python Enthusiast 🖥️
-  
+
+  <div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    
 ## My Techs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
