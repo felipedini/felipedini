@@ -9,6 +9,7 @@
   
 ## My Techs
 <div align="left">
+  <img align="left" height="250" alt="coding-time" src="code.gif">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
