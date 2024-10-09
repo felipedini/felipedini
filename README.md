@@ -43,6 +43,7 @@
   <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>
 
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 ###
 
 ###
