@@ -8,8 +8,8 @@
 
   
 ## My Techs
-<div align="top">
-  <img align="left" height="250" alt="coding-time" src="code.gif">
+<div align="left">
+  <img align="top" height="250" alt="coding-time" src="code.gif">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="javascript logo"  />
@@ -41,6 +41,7 @@
   <a href="https://instagram.com/felipehenrydini" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>
 
 ###
