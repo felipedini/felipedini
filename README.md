@@ -5,7 +5,7 @@
 
 - My name is Felipe  Dini , from SP, Brazil 🇧🇷
 - Python Enthusiast 🖥️
-
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
 ## My Techs
 <div align="left">
@@ -43,7 +43,7 @@
   <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 ###
