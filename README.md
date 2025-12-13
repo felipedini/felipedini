@@ -2,7 +2,7 @@
 
 
 ## 🚀 Olá, eu sou **Felipe Dini**  
-### 🔥 Desenvolvedor Python | Criador de Soluções | Entusiasta de IA & Automação  
+### 🔥 Desenvolvedor Python 🐍 | Criador de Soluções | Entusiasta de IA & Automação  
 📍 São Paulo, Brasil 🇧🇷 | 💡 Transformando ideias em código eficiente  
 
 > ✨ *"Programar não é só escrever linhas — é resolver problemas com criatividade e lógica."*
