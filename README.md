@@ -1,10 +1,13 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
-## 👋 Hi there, welcome to my Github profile
+## 🚀 Olá, eu sou **Felipe Dini**  
+### 🔥 Desenvolvedor Python | Criador de Soluções | Entusiasta de IA & Automação  
+📍 São Paulo, Brasil 🇧🇷 | 💡 Transformando ideias em código eficiente  
 
-- My name is Felipe  Dini , from SP, Brazil 🇧🇷
-- Python Enthusiast 🖥️
+> ✨ *"Programar não é só escrever linhas — é resolver problemas com criatividade e lógica."*
+
+---
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
 ## My Techs
