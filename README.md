@@ -20,21 +20,6 @@
   <img width="12" />
 
 ###
-<div  align="center" style="margin-bottom:100px">
-<img 
-  src="https://streak-stats.demolab.com?user=felipedini&theme=radical&mode=weekly&border=1&hide_border=true"
-  height="180" 
-  align="center" 
-  alt="GitHub Streak"
-/>
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=felipedini&show_icons=true&theme=radical&layout=compact" />
- </div>
-
- &nbsp;
- &nbsp;
-
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-dini-8a357b169/" target="_blank">
