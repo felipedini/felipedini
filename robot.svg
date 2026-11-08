@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b4b6b"/><stop offset="1" stop-color="#1e2740"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#36bcf7"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" repeatCount="indefinite"/>
+    <line x1="100" y1="30" x2="100" y2="50" stroke="#8aa0c8" stroke-width="4"/>
+    <circle cx="100" cy="24" r="8" fill="#36bcf7"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <rect x="45" y="50" width="110" height="80" rx="22" fill="url(#b)" stroke="url(#s)" stroke-width="3"/>
+    <rect x="58" y="64" width="84" height="50" rx="14" fill="#0d1117"/>
+    <g fill="#36bcf7">
+      <rect x="72" y="78" width="16" height="18" rx="5"><animate attributeName="height" values="18;18;2;18" keyTimes="0;0.9;0.95;1" dur="4s" repeatCount="indefinite"/></rect>
+      <rect x="112" y="78" width="16" height="18" rx="5"><animate attributeName="height" values="18;18;2;18" keyTimes="0;0.9;0.95;1" dur="4s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect x="35" y="78" width="10" height="24" rx="4" fill="#8aa0c8"/>
+    <rect x="155" y="78" width="10" height="24" rx="4" fill="#8aa0c8"/>
+    <rect x="62" y="138" width="76" height="56" rx="16" fill="url(#b)" stroke="url(#s)" stroke-width="3"/>
+    <text x="100" y="172" text-anchor="middle" font-family="Fira Code,monospace" font-size="16" fill="#36bcf7">&lt;/&gt;</text>
+    <rect x="40" y="146" width="16" height="36" rx="8" fill="#8aa0c8">
+      <animateTransform attributeName="transform" type="rotate" values="0 48 146;-20 48 146;0 48 146" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="144" y="146" width="16" height="36" rx="8" fill="#8aa0c8"/>
+  </g>
+  <ellipse cx="100" cy="212" rx="40" ry="5" fill="#36bcf7" opacity="0.25"/>
+</svg>

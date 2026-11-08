@@ -1,3 +1,5 @@
+<img align="right" src="robot.svg" width="170" alt="Robô de automação">
+
 <h1 align="center">Olá, eu sou o Felipe Dini 👋</h1>
 
 <p align="center">
