@@ -26,7 +26,6 @@
 - 🌐 Automação web com **Playwright**, leitura e escrita de **Excel** e fluxos de **WhatsApp** com Kanban, respostas salvas e perfis de **IA**.
 - 📊 Experiência com **Big Data** e análise de dados (regressão, cálculo numérico).
 - 🎨 Também cuido do produto ponta a ponta: site, animações, performance e conversão.
-- 🤝 **Aberto a vagas, freelas de automação e parcerias.**
 
 > ✨ *"Programar não é só escrever linhas — é resolver problemas com criatividade e lógica."*
 
