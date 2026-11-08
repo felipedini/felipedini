@@ -45,12 +45,8 @@
 | [**HURST**](https://github.com/felipedini/HURST) | Análise com o expoente de Hurst em Python |
 | [**Calendario**](https://github.com/felipedini/Calendario) | Projeto em TeX |
 
-### 🐍 Minhas contribuições
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipedini/felipedini/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/felipedini/felipedini/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img alt="Snake animation" src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ### 📊 GitHub Stats
